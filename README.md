@@ -1,2 +1,2 @@
-# not-a-very-good-game
-The opposite of a good game
+# It's not the best game you'll ever play
+But it's ok
